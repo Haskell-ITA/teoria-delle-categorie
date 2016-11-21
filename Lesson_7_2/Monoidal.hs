@@ -1,6 +1,6 @@
 {-# language InstanceSigs, ExplicitForAll, TypeFamilies, FlexibleContexts #-}
-
-module MonoidalCategory where
+-- | Hask monoidal category
+module Lesson_7_2.Monoidal where
 
 import GHC.Base
 
